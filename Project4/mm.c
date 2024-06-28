@@ -74,11 +74,11 @@ void        mm_check(int verbose);
  ********************************************************/
 team_t team = {
     /* Your student ID */
-    "20192132",
+    "20xxxxxx",
     /* Your full name*/
-    "Jahong Koo",
+    "asdf",
     /* Your email address */
-    "mongoo8947@sogang.ac.kr",
+    "asdf@sogang.ac.kr",
 };
 
 /* 
